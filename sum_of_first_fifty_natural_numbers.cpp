@@ -1,3 +1,9 @@
+/*
+               Add C++ program to find sum of first 50 natural numbers
+                                       Akmal Sattar
+                                      L1F23BSCS0202
+                                      Assignment 01
+*/
 #include <iostream>
 using namespace std;
 
